@@ -16,7 +16,15 @@
 ---
 
 ### :man_technologist: About Me :
-### Hi there 👋
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on StackOverflow and ZTM discord community and also read tech articles.
+
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-soheil-red?style=flat&logo=Gmail&logoColor=white)](mailto:s.tehrani1994@gmail.com)
 
 <!--
 **soheiiilst/soheiiilst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
