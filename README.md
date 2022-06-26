@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :man_technologist: About Me :
@@ -27,6 +28,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-soheil-red?style=flat&logo=Gmail&logoColor=white)](mailto:s.tehrani1994@gmail.com)
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -45,10 +47,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
 
 <!--
 **soheiiilst/soheiiilst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
