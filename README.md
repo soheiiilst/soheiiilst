@@ -50,12 +50,10 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :fire: My Stats :
 <div>
-  <div>
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soheiiilst)](https://git.io/streak-stats)
   </div>
-  <div>
+<div>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soheiiilst)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 </div>
 <!--
 **soheiiilst/soheiiilst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
