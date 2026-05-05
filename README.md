@@ -53,9 +53,9 @@ I am an SAP ABAP/Fiori Developer and a Front-End Developer <img src="https://med
 ### :fire: My Stats :
 <div>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soheiiilst&theme=light&background=FFFFFF)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soheiiilst&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soheiiilst)](https://github.com/soheiiilst/github-readme-stats)
   
 </div>
 
